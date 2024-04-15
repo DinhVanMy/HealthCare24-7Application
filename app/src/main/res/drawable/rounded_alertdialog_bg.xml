@@ -1,0 +1,10 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:shape="rectangle"
+    tools:ignore="ExtraText">
+    <solid android:color="@android:color/white" />
+    <stroke
+        android:width="1dp"
+    android:color="#000000" /> <!-- Màu đen cho viền -->
+    <corners android:radius="20dp" /> <!-- Radius = 20 -->
+</shape>

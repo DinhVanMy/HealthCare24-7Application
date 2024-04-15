@@ -1,0 +1,99 @@
+<resources>
+
+    <!-- Define the array of languages -->
+    <string-array name="languages_array">
+        <item>English</item>
+        <item>Vietnamese</item>
+        <item>French</item>
+    </string-array>
+    <string name="app_name">Healthcare Application</string>
+    <string name="txt_login">Login</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="don_t_have_an_account_sign_up">Don’t have an account?? Sign Up</string>
+    <string name="txt_registration">Registration</string>
+    <string name="register_username">Username</string>
+    <string name="txt_email">Email</string>
+    <string name="register_password">Password</string>
+    <string name="register_comfirm_password">Comfirm Password</string>
+    <string name="button_register">Register</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="home_lab_test">LAB TEST</string>
+    <string name="home_buy_medicine">BUY MEDICINE</string>
+    <string name="home_find_doctor">FIND DOCTOR</string>
+    <string name="home_health_articles">HEALTH ARTICLES</string>
+    <string name="home_order_details">ORDER DETAILS</string>
+    <string name="home_logout">LOGOUT</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="BA_full_name">Full Name</string>
+    <string name="BA_address">Address</string>
+    <string name="BA_contact_number">Contact Number</string>
+    <string name="BA_fees">Fees</string>
+    <string name="BA_select_date">Select Date</string>
+    <string name="BA_select_time">Select Time</string>
+    <string name="button_book_appointment">BOOK APPOINTMENT</string>
+    <string name="BA_button_back">BACK</string>
+    <string name="BM_deliver_location_ha_noi">Deliver Location: Ha Noi</string>
+    <string name="BM_buy_medicines">Buy Medicines</string>
+    <string name="BM_go_to_cart">GO TO CART</string>
+    <string name="BM_button_back">BACK</string>
+    <string name="BMB_please_fill_all_details_for_booking">Please Fill All Details for Booking</string>
+    <string name="BMB_full_name">Full Name</string>
+    <string name="BMB_address">Address</string>
+    <string name="BMB_pin_code">Pin Code</string>
+    <string name="BMB_contact_number">Contact Number</string>
+    <string name="BMB_book">BOOK</string>
+    <string name="BMD_deliver_location_ha_noi">Deliver Location: Ha Noi</string>
+    <string name="BMD_buy_medicines">Buy Medicines</string>
+    <string name="BMD_hi_nhello">Hi \nHello</string>
+    <string name="BMD_add_to_cart">ADD TO CART</string>
+    <string name="BMD_back">BACK</string>
+    <string name="CBM_deliver_location_ha_noi">Deliver Location: Ha Noi</string>
+    <string name="CBM_medicine_and_packages">Medicine And Packages</string>
+    <string name="CBM_total_cost_2000">Total Cost: 2000/-</string>
+    <string name="CBM_select_deliver_date">Select Deliver Date</string>
+    <string name="CBM_checkout">CHECKOUT</string>
+    <string name="CBM_back">BACK</string>
+    <string name="CL_deliver_location_ha_noi">Deliver Location: Ha Noi</string>
+    <string name="CL_lab_test_and_packages">Lab Test And Packages</string>
+    <string name="CL_total_cost_2000">Total Cost: 2000/-</string>
+    <string name="CL_select_date">Select Date</string>
+    <string name="CL_select_time">Select Time</string>
+    <string name="CL_checkout">CHECKOUT</string>
+    <string name="CL_back">BACK</string>
+    <string name="DD_default_text">Default Text</string>
+    <string name="DD_back">BACK</string>
+    <string name="FD_family_physicians">FAMILY PHYSICIANS</string>
+    <string name="FD_dietician">DIETICIAN</string>
+    <string name="FD_dentist">DENTIST</string>
+    <string name="FD_surgeon">SURGEON</string>
+    <string name="FD_cardiologists">CARDIOLOGISTS</string>
+    <string name="FD_back">BACK</string>
+    <string name="HA_health_articles">Health Articles</string>
+    <string name="HA_back">BACK</string>
+    <string name="HAD_dentists">DENTISTS</string>
+    <string name="HAD_back">BACK</string>
+    <string name="LT_deliver_location_ha_noi">Deliver Location: Ha Noi</string>
+    <string name="LT_lab_test_and_packages">Lab Test And Packages</string>
+    <string name="LT_go_to_cart">GO TO CART</string>
+    <string name="LT_back">BACK</string>
+    <string name="LTB_please_fill_all_details_for_booking">Please Fill All Details for Booking</string>
+    <string name="LTB_full_name">Full Name</string>
+    <string name="LTB_address">Address</string>
+    <string name="LTB_pin_code">Pin Code</string>
+    <string name="LTB_contact_number">Contact Number</string>
+    <string name="LTB_button_book">BOOK</string>
+    <string name="LTD_deliver_location_ha_noi">Deliver Location: Ha Noi</string>
+    <string name="LTD_lab_test_and_packages">Lab Test And Packages</string>
+    <string name="LTD_hi_nhello">Hi \nHello</string>
+    <string name="LTD_textview">TextView</string>
+    <string name="LTD_add_to_cart">ADD TO CART</string>
+    <string name="LTD_back">BACK</string>
+    <string name="OD_order_details">ORDER DETAILS</string>
+    <string name="OD_back">BACK</string>
+
+    <string name="facebook_app_id">1569768336932179</string>
+    <string name="fb_login_protocol_scheme">fb1569768336932179</string>
+    <string name="facebook_client_token">bc7bd7fb5f260a4696787b8e04354bbc</string>
+</resources>
